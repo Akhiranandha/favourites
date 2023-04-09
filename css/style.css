@@ -1,0 +1,53 @@
+h1{
+    color: darkorange;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    background-color: black;
+    text-align: center;
+    
+}
+
+p{
+    font-size: larger;
+    color: aqua;
+}
+body{
+    background-color: papayawhip;
+}
+h2{
+    color: forestgreen ;
+    text-decoration: underline;
+    font-weight: bold;
+    border-color: darkblue;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+ul{
+    font-size: large;
+    line-height:25px;
+    list-style-type: square;
+}
+span{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-overflow: clip;
+}
+figure{
+    float: right;
+    font-size: large;
+}
+img{
+    width: 25ch;
+    border-radius: 12.5ch;
+}
+figcaption{
+    text-align: center;
+}
+a:visited{
+    color:maroon;
+}
+a:hover{
+    background-color: rgb(98, 255, 0);
+}
